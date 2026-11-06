@@ -27,5 +27,3 @@ This project simulates a real-world **SOC Level 1** shift environment. Instead o
 
 ---
 
-```text
-
