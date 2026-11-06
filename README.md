@@ -21,13 +21,11 @@ Simulating real-world security operations center workflows.</p>
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project simulates a real-world **SOC Level 1** shift environment. Instead of just listing tools, this repository documents the core analytical lifecycle of security alerts: ingesting logs, executing rigorous **triage**, distinguishing between **True Positives (TP)** and **False Positives (FP)**, and drafting a clean **escalation checklist**.
 
 ---
 
-## 🏗️ Lab Architecture & Workflow
-
 ```text
-[ Endpoint Logs / Attacks ] ---> [ Wazuh SIEM / Lab ] ---> [ Alert Triage & Analysis ] ---> [ Escalation & Documentation ]
+
