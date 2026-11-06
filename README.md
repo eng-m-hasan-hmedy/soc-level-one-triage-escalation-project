@@ -36,7 +36,7 @@ This repository is structured to separate architecture, alert analysis, and esca
 ├── scenarios/              # Detailed alert triage and investigation notes
 └── playbooks/              # Incident response and escalation checklists
 
-
+```
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,55:0d4429,100:010409&height=80&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 </div>
