@@ -25,6 +25,17 @@ Simulating real-world security operations center workflows.</p>
 
 This project simulates a real-world **SOC Level 1** shift environment. Instead of just listing tools, this repository documents the core analytical lifecycle of security alerts: ingesting logs, executing rigorous **triage**, distinguishing between **True Positives (TP)** and **False Positives (FP)**, and drafting a clean **escalation checklist**.
 
+## Project Structure
+
+This repository is structured to separate architecture, alert analysis, and escalation playbooks clearly:
+
+```text
+.
+├── README.md               # Main project documentation & overview
+├── architecture/           # Lab topology and network diagrams
+├── scenarios/              # Detailed alert triage and investigation notes
+└── playbooks/              # Incident response and escalation checklists
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,55:0d4429,100:010409&height=80&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
